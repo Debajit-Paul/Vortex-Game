@@ -1,2 +1,2 @@
 # Vortex-Game
-My First 3d game in Unity
+My First 3d game in Unity Demo
